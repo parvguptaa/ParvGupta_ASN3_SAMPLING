@@ -1,4 +1,5 @@
-# Comparing Sampling Techniques for 5 Machine Learning Models
+# PARV GUPTA
+# A comparative analysis of sampling techniques for five machine learning models
 
 ## Introduction
 
@@ -8,15 +9,14 @@ The goal of this project is to examine the efficacy of various sampling techniqu
 
 The following five sampling techniques were used in this project:
 
-1. **Simple Random Sampling:** A basic sampling technique where each data point in the dataset has an equal probability of being selected in the sample.
+1. **Simple Random Sampling:** A simple random sampling technique that assigns an equal probability of selection to each data point in the dataset.
 
-2. **Stratified Sampling:** A sampling technique where the population is divided into subgroups (strata) based on a specific characteristic, and samples are taken from each stratum in proportion to the population.
+2. **Stratified Sampling:** Stratified sampling is a sampling technique that involves dividing a population into subgroups or strata based on a specific characteristic, and then selecting samples from each stratum in proportion to the population
 
-3. **Systematic Sampling:** A sampling technique where every nth element in the population is selected for the sample, with n being a fixed interval.
+3. **Systematic Sampling:** The systematic sampling technique involves selecting every nth element from the population to form the sample, where n is a fixed interval determined by the researcher
 
-4. **Cluster Sampling:** A sampling technique where the population is divided into clusters, and a sample of clusters is randomly selected. Then, all members of the selected clusters are included in the sample.
-
-5. **Convenience Sampling:** A non-probability sampling technique where the sample is chosen based on its convenience to the researcher.
+4. **Cluster Sampling:** "Cluster sampling is a sampling technique where the population is divided into clusters, and a sample of these clusters is randomly selected. Then, all members of the selected clusters are included in the sample.
+5. **Convenience Sampling:** Convenience sampling is a non-probability sampling technique where the sample is selected based on its ease of access or convenience to the researcher, rather than a random or representative selection process
 
 ## Comparison Table
 
