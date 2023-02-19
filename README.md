@@ -15,7 +15,7 @@ The following five sampling techniques were used in this project:
 
 3. **Systematic Sampling:** The systematic sampling technique involves selecting every nth element from the population to form the sample, where n is a fixed interval determined by the researcher
 
-4. **Cluster Sampling:** "Cluster sampling is a sampling technique where the population is divided into clusters, and a sample of these clusters is randomly selected. Then, all members of the selected clusters are included in the sample.
+4. **Cluster Sampling:** Cluster sampling is a sampling technique where the population is divided into clusters, and a sample of these clusters is randomly selected. Then, all members of the selected clusters are included in the sample
 5. **Convenience Sampling:** Convenience sampling is a non-probability sampling technique where the sample is selected based on its ease of access or convenience to the researcher, rather than a random or representative selection process
 
 ## Comparison Table
